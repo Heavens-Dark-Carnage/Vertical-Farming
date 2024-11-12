@@ -1,3 +1,5 @@
+# <ins> **Vertical Farming IoT System** </ins>
+
 This project is an automated vertical farming system built with an ESP32 microcontroller and various sensors to monitor and manage environmental conditions. It integrates with the Blynk platform for remote monitoring and control, allowing users to track real-time data and automate functions like irrigation based on set thresholds.
 
 # **Features**
