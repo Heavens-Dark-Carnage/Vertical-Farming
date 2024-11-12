@@ -25,6 +25,5 @@ This project is an automated vertical farming system built with an ESP32 microco
  3. Adjust the thresholds in the code based on your environment.
  4. Upload the code to your ESP32 and monitor via the Serial Monitor or the Blynk app.
 
-# **Usage**
-This system is intended for small-scale indoor farming or educational projects, offering a real-time solution for environmental monitoring and irrigation control.
-
+> [!NOTE]
+> This system is intended for small-scale indoor farming or educational projects, offering a real-time solution for environmental monitoring and irrigation control.
